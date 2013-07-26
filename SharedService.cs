@@ -10,6 +10,7 @@ namespace AliceBlue
 {
     public static class SharedService
     {
+        //サウンドを鳴らす静的クラス
         public static void PlaySound(string soundFile)
         {
             Thread thread = new Thread(new ThreadStart(() =>

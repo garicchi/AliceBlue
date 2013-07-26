@@ -16,9 +16,10 @@ namespace AliceBlue
 {
     public partial class ThisAddIn
     {
-       
+       //アドインスタート
         private void ThisAddIn_Startup(object sender, System.EventArgs e)
         {
+            //この命令でサウンドを鳴らせます
             SharedService.PlaySound("AliceBlue.Sounds.kidou.wav");
             
             this.Application.Startup+=()=>
@@ -48,11 +49,14 @@ namespace AliceBlue
             
         }
 
+        
         private void Application_DocumentBeforeSave(Word.Document Doc, ref bool SaveAsUI, ref bool Cancel)
         {
+
             SharedService.PlaySound("AliceBlue.Sounds.save.wav");
         }
 
+        //アドイン終了
         private void ThisAddIn_Shutdown(object sender, System.EventArgs e)
         {
         }
