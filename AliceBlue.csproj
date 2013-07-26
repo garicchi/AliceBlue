@@ -267,7 +267,14 @@
     <ManifestKeyFile>AliceBlue_TemporaryKey.pfx</ManifestKeyFile>
   </PropertyGroup>
   <PropertyGroup>
-    <ManifestCertificateThumbprint>E3B2721BC9E676454AD47813D22D8E8DF07762CE</ManifestCertificateThumbprint>
+    <ManifestCertificateThumbprint>78909A2A1D0D870C26A13057ACC236189C703C03</ManifestCertificateThumbprint>
+  </PropertyGroup>
+  <PropertyGroup>
+    <SignAssembly>false</SignAssembly>
+  </PropertyGroup>
+  <PropertyGroup>
+    <AssemblyOriginatorKeyFile>
+    </AssemblyOriginatorKeyFile>
   </PropertyGroup>
   <!-- Include the build rules for a C# project. -->
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />

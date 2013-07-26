@@ -8,5 +8,3 @@ C:\Users\garicchi\Project\Office\AliceBlue\AliceBlue\obj\Release\AliceBlue.Prope
 C:\Users\garicchi\Project\Office\AliceBlue\AliceBlue\obj\Release\AliceBlue.csproj.GenerateResource.Cache
 C:\Users\garicchi\Project\Office\AliceBlue\AliceBlue\obj\Release\AliceBlue.dll
 C:\Users\garicchi\Project\Office\AliceBlue\AliceBlue\obj\Release\AliceBlue.pdb
-C:\Users\garicchi\Project\Office\AliceBlue\AliceBlue\bin\Release\AliceBlue.dll.CodeAnalysisLog.xml
-C:\Users\garicchi\Project\Office\AliceBlue\AliceBlue\bin\Release\AliceBlue.dll.lastcodeanalysissucceeded
