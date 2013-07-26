@@ -20,6 +20,7 @@ namespace AliceBlue
         private void ThisAddIn_Startup(object sender, System.EventArgs e)
         {
             //この命令でサウンドを鳴らせます
+            //なお、サウンドは既存のアイテムの追加から追加し、プロパティを埋め込みリソースにしてください
             SharedService.PlaySound("AliceBlue.Sounds.kidou.wav");
             
             this.Application.Startup+=()=>
