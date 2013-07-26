@@ -1,0 +1,12 @@
+C:\Users\garicchi\Project\Office\AliceBlue\AliceBlue\bin\Release\AliceBlue.dll
+C:\Users\garicchi\Project\Office\AliceBlue\AliceBlue\bin\Release\AliceBlue.pdb
+C:\Users\garicchi\Project\Office\AliceBlue\AliceBlue\bin\Release\AliceBlue.dll.manifest
+C:\Users\garicchi\Project\Office\AliceBlue\AliceBlue\bin\Release\AliceBlue.vsto
+C:\Users\garicchi\Project\Office\AliceBlue\AliceBlue\bin\Release\Microsoft.Office.Tools.Common.v4.0.Utilities.dll
+C:\Users\garicchi\Project\Office\AliceBlue\AliceBlue\obj\Release\AliceBlue.Hagemashi.resources
+C:\Users\garicchi\Project\Office\AliceBlue\AliceBlue\obj\Release\AliceBlue.Properties.Resources.resources
+C:\Users\garicchi\Project\Office\AliceBlue\AliceBlue\obj\Release\AliceBlue.csproj.GenerateResource.Cache
+C:\Users\garicchi\Project\Office\AliceBlue\AliceBlue\obj\Release\AliceBlue.dll
+C:\Users\garicchi\Project\Office\AliceBlue\AliceBlue\obj\Release\AliceBlue.pdb
+C:\Users\garicchi\Project\Office\AliceBlue\AliceBlue\bin\Release\AliceBlue.dll.CodeAnalysisLog.xml
+C:\Users\garicchi\Project\Office\AliceBlue\AliceBlue\bin\Release\AliceBlue.dll.lastcodeanalysissucceeded

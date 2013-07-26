@@ -1,0 +1,11 @@
+C:\Users\garicchi\Project\Office\AliceBlue\AliceBlue\bin\Debug\AliceBlue.dll
+C:\Users\garicchi\Project\Office\AliceBlue\AliceBlue\bin\Debug\AliceBlue.pdb
+C:\Users\garicchi\Project\Office\AliceBlue\AliceBlue\bin\Debug\AliceBlue.dll.manifest
+C:\Users\garicchi\Project\Office\AliceBlue\AliceBlue\bin\Debug\AliceBlue.vsto
+C:\Users\garicchi\Project\Office\AliceBlue\AliceBlue\bin\Debug\Microsoft.Office.Tools.Common.v4.0.Utilities.dll
+C:\Users\garicchi\Project\Office\AliceBlue\AliceBlue\obj\Debug\AliceBlue.csprojResolveAssemblyReference.cache
+C:\Users\garicchi\Project\Office\AliceBlue\AliceBlue\obj\Debug\AliceBlue.Hagemashi.resources
+C:\Users\garicchi\Project\Office\AliceBlue\AliceBlue\obj\Debug\AliceBlue.Properties.Resources.resources
+C:\Users\garicchi\Project\Office\AliceBlue\AliceBlue\obj\Debug\AliceBlue.csproj.GenerateResource.Cache
+C:\Users\garicchi\Project\Office\AliceBlue\AliceBlue\obj\Debug\AliceBlue.dll
+C:\Users\garicchi\Project\Office\AliceBlue\AliceBlue\obj\Debug\AliceBlue.pdb
